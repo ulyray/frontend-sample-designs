@@ -2,7 +2,7 @@
 
 A collection of responsive UI components and page sections built with HTML, Tailwind CSS, and vanilla JS. Each folder is a standalone design you can preview live.
 
-**🔗 Live Demo:** https://ulyray.github.io/frontend-sample-designs/
+**🔗 Live Demo:** https://ulyray.github.io/frontend-sample-designs/email-subscribe/
 
 ### **01 - Email Subscribe Card**
 A responsive email newsletter subscribe card with image, content, and input. Built mobile-first using Tailwind CSS.
