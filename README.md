@@ -8,7 +8,8 @@ A collection of responsive UI components and page sections built with HTML, Tail
 A responsive email newsletter subscribe card with image, content, and input. Built mobile-first using Tailwind CSS.
 
 **Preview**  
-![Email Subscribe Preview](./email-subscribe/preview.png)
+<img width="1902" height="987" alt="image" src="https://github.com/user-attachments/assets/a37be28c-fa18-4e0f-82ab-2ba4d3df8638" />
+
 
 **Live:** https://ulyray.github.io/frontend-sample-designs/email-subscribe/  
 **Folder:** [`/email-subscribe`](./email-subscribe/)
