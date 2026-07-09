@@ -2,29 +2,30 @@
 
 A collection of responsive UI components and page sections built with HTML, Tailwind CSS, and vanilla JS. Each folder is a standalone design you can preview live.
 
-**🔗 Live Demo:** https://ulyray.github.io/frontend-sample-designs/email-subscribe/
+🔗 **Live Demo:** https://ulyray.github.io/frontend-sample-designs/
 
-### **01 - Email Subscribe Card**
-A responsive email newsletter subscribe card with image, content, and input. Built mobile-first using Tailwind CSS.
+### 01 - Email Subscribe Card
+![preview](./email-subscribe/preview.png)
 
-**Preview**  
-<img width="1902" height="987" alt="image" src="https://github.com/user-attachments/assets/a37be28c-fa18-4e0f-82ab-2ba4d3df8638" />
-
-
-**Live:** https://ulyray.github.io/frontend-sample-designs/email-subscribe/  
-**Folder:** [`/email-subscribe`](./email-subscribe/)
+Live: https://ulyray.github.io/frontend-sample-designs/email-subscribe/  
+Folder: `/email-subscribe`
 
 **Features:**
-- Fully responsive: stacks on mobile, side-by-side on `md` screens
+- Fully responsive: stacks on mobile, side-by-side on md screens
 - Tailwind CSS via CDN — no build step
 - Smooth image hover scale effect
-- Custom limegreen focus state on email input
-- Dark zinc color palette
 
-**Tech Stack:** 
-`HTML5` `Tailwind CSS`
+### 02 - Pricing Guides
+![preview](./pricing-guides/preview.png)
 
-### **How to run locally**
-1. Clone the repo
-   ```bash
-   git clone https://github.com/ulyray/frontend-sample-designs.git
+Live: https://ulyray.github.io/frontend-sample-designs/pricing-guides/  
+Folder: `/pricing-guides`
+
+### 03 - Product Modal
+![preview](./product-modal/preview.png)
+
+Live: https://ulyray.github.io/frontend-sample-designs/product-modal/  
+Folder: `/product-modal`
+
+### How to run locally
+git clone https://github.com/ulyray/frontend-sample-designs.git
